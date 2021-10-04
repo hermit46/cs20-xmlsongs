@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<songs>
+    <heading>Welcome To Yong Quan's XML Song List </heading>
+    <song>
+        <title>Title -: Halloween </title>
+        <artists>Artist(s) -: Novo Amor</artists>
+        <genre>Music Genre -: Alternative/Indie</genre>
+        <year>Year of Release -: 2020</year>
+    </song>
+    <song>
+        <title>Title -: evermore</title>
+        <artists>Artist(s) -: Taylor Swift, Bon Iver</artists>
+        <genre>Music Genre -: Alternative/Indie</genre>
+        <year>Year of Release -: 2021</year>
+    </song>
+    <song>
+        <title>Title -: Petrified</title>
+        <artists>Artist(s) -: DROELOE</artists>
+        <genre>Music Genre -: Electronic</genre>
+        <year>Year of Release -: 2020</year>
+    </song>
+    <song>
+        <title>Title -: Take Three</title>
+        <artists>Artist(s) -: Jerry Folk</artists>
+        <genre>Music Genre -: Electronic</genre>
+        <year>Year of Release -: 2020</year>
+    </song>
+    <song>
+        <title>Title -: Makeba</title>
+        <artists>Artist(s) -: Jain</artists>
+        <genre>Music Genre -: Pop</genre>
+        <year>Year of Release -: 2016</year>
+    </song>
+    <song>
+        <title>Title -: Holocene</title>
+        <artists>Artist(s) -: Bon Iver</artists>
+        <genre>Music Genre -: Alternative/Indie</genre>
+        <year>Year of Release -: 2011</year>
+    </song>
+    <song>
+        <title>Title -: Time</title>
+        <artists>Artist(s) -: John Lucas</artists>
+        <genre>Music Genre -: Christian</genre>
+        <year>Year of Release -: 2015</year>
+    </song>
+    <song>
+        <title>Title -: Citizens</title>
+        <artists>Artist(s) -: Jon Guerra</artists>
+        <genre>Music Genre -: Christian</genre>
+        <year>Year of Release -: 2020</year>
+    </song>
+    <song>
+        <title>Title -: Heart Gone Wild</title>
+        <artists>Artist(s) -: John Lucas</artists>
+        <genre>Music Genre -: Christian</genre>
+        <year>Year of Release -: 2015</year>
+    </song>
+    <song>
+        <title>Title -: Have it All</title>
+        <artists>Artist(s) -: Bethel Music, Brian Johnson, Lindsey Strand</artists>
+        <genre>Music Genre -: Christian</genre>
+        <year>Year of Release -: 2016</year>
+    </song>
+</songs>
